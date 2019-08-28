@@ -11,6 +11,7 @@ Limit is only in your mind, but creating this application I was thinking about s
 + Liquid calculator - for smokers
 + Area calculator - for apartment developers
 + Cost calculator - for your clients
+
 And so on.
 
 ## Creating calculator
@@ -32,5 +33,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Environment files
 Real envinroment files from /src/environments are added to .gitignore. 
-There are two example environment files: environment_example.prod.ts and environment_example.ts
+
+There are two example environment files: 
+
++ environment_example.prod.ts
++ environment_example.ts
+
 Change XXX values for your information from firebase API.
